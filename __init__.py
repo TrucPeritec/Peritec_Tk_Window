@@ -1,0 +1,2 @@
+from .Peritec_Tk_Window import PeritecTkWindowAdd, PeritecTkWindowQuery, PeritecTkWindowGetCollection, PeritecTkWindowDelete, PeritecTkWindowExistence
+from .Peritec_Tk_Window import Peritec_Tk_Window
