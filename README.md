@@ -4,7 +4,7 @@ Open command line terminal.
 
 ## Step 2:
 Run this command to install<br/>
-pip install -e git+https://github.com/VoLinhTruc/Peritec_Tk_Window.git#egg=Peritec_Tk_Window<br/>
+pip install -e git+https://github.com/TrucPeritec/Peritec_Tk_Window.git#egg=Peritec_Tk_Window<br/>
 
 <br/>
 <br/>
@@ -16,7 +16,7 @@ Open command line terminal.
 ## Step 2:
 Run these command to upgrade<br/>
 echo y | pip uninstall Peritec_Tk_Window<br/>
-pip install -e git+https://github.com/VoLinhTruc/Peritec_Tk_Window.git#egg=Peritec_Tk_Window<br/>
+pip install -e git+https://github.com/TrucPeritec/Peritec_Tk_Window.git#egg=Peritec_Tk_Window<br/>
 
 <br/>
 <br/>
